@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-// Sudoku Background
+// Sudoku Solution Validator
 
 // C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe  /debug+ "023 - Sudoku Background.cs"
 
