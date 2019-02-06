@@ -1,1 +1,4 @@
 *.js
+*.dll
+*.exe
+*.pdb
